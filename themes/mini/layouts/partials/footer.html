@@ -16,7 +16,7 @@
     {{ end }}
     </div>
 
-    {{ if ne .Site.Params.showPowerBy false }}
+    {{ if .Site.Params.showPowerBy }}
       <div class="powerby">
         {{ i18n "poweredBy" | safeHTML }}
       </div>

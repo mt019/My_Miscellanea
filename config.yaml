@@ -1,19 +1,24 @@
 baseURL: https://mt019.github.io
 languageCode: en-us
-title: Hugo
+title: Ivanna's Site
 theme: mini
 
+
 # Default content language, support en (English) / zh (Chinese) / nl (Dutch) / fr (French) / es (Spanish) / da (Danish), default 'en'
-defaultContentLanguage: zh
+defaultContentLanguage: en
+
+
 
 # !!! exampleSite only, you may need to delete the line: `themesDir: ../../` 
 # themesDir: ../../
 
+
+# https://mogeko.me/posts/zh-cn/033/
 hasCJKLanguage: true
 permalinks:
   posts: /posts/:title/
 
-paginate: 3
+paginate: 5
 
 googleAnalytics: your-google-analytics-id
 disqusShortname: your-disqus-shortname
@@ -22,7 +27,7 @@ disqusShortname: your-disqus-shortname
 # More info: https://gohugo.io/getting-started/configuration-markup#
 markup:
   highlight:
-    anchorLineNos: falseß
+    anchorLineNos: false
     codeFences: true
     guessSyntax: false
     hl_Lines: ''
@@ -79,19 +84,19 @@ Params:
   # To enable table of content, you could set `showToc: true`, default is `false`
   showToc: true
   # To hidden powerBy message in the page footer, you could set: `showPowerBy: false`, default is `true`
-  showPowerBy: true
+  showPowerBy: false
   # To enable math typesetting , you could set `math: true`, default is `false`
   math: false
   # To hidden post summary in home page, you could set `hiddenPostSummaryInHomePage: true`, default is `false`
-  hiddenPostSummaryInHomePage: true
+  hiddenPostSummaryInHomePage: false
   # Website copy write, default: '© Copyright 2021 ❤️ {params.author}'
   copyright: 
 
 # Extra links in navigation
   links:
-     Name1: 
-        name: Categories
-        path: /categories
+    #  Name1: 
+    #     name: Categories
+    #     path: /categories
     # e.g.
     # - name: Project
     #   path: /project
@@ -99,12 +104,15 @@ Params:
   # You can put your custom css and js to `static` directory, or use remote css and js files which start with `http://` or `https://`
   customCSS:
     ## e.g.
+    - css/add-on.css
     - "css/syntax.css"
-    - "css/copy-code-button.css"
+    - css/copy-code-button.css
+    - css/copy-code-button copy.css
     # local css in `static/css/custom.css`
     # - https://example.com/custom.css # remote css
   customJS:
-    - "js/copy-code-button.js"
+    - js/copy-code-button.js
+    - js/add-on.js
     ## e.g.
     # - js/custom.js # local js in `static/js/custom.js`
     # - https://example.com/custom.js # remote js
@@ -112,8 +120,10 @@ Params:
 
 taxonomies:
   categories: categories
-  # tags: tags
+  tags: tags
 
 
 pygmentsUseClasses: true
 pygmentsCodeFences: true
+
+

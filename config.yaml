@@ -32,10 +32,10 @@ markup:
     lineNumbersInTable: true
     noClasses: false
     noHl: false
-    style: 'monokailight'
+    # style: 'monokailight'
     tabWidth: 4
     # guessSyntax: true
-    # # style: rose-pine-dawn
+    style: rose-pine-dawn
     # style: emacs
 
   tableOfContents:
@@ -57,9 +57,9 @@ social:
 
 
 # Site parameters
-params:
+Params:
   # Site Author
-  author: Ivanna
+  author: true
   # Author biography
   bio: Student
   # Site Description, used in HTML meat
@@ -79,13 +79,13 @@ params:
   # To enable table of content, you could set `showToc: true`, default is `false`
   showToc: true
   # To hidden powerBy message in the page footer, you could set: `showPowerBy: false`, default is `true`
-  showPowerBy: false
+  showPowerBy: true
   # To enable math typesetting , you could set `math: true`, default is `false`
   math: false
   # To hidden post summary in home page, you could set `hiddenPostSummaryInHomePage: true`, default is `false`
   hiddenPostSummaryInHomePage: true
   # Website copy write, default: '© Copyright 2021 ❤️ {params.author}'
-  copyright: '' 
+  copyright: 
 
 # Extra links in navigation
   links:
@@ -99,12 +99,12 @@ params:
   # You can put your custom css and js to `static` directory, or use remote css and js files which start with `http://` or `https://`
   customCSS:
     ## e.g.
-    - css/syntax.css
-    - css/copy-code-button.css
+    - "css/syntax.css"
+    - "css/copy-code-button.css"
     # local css in `static/css/custom.css`
     # - https://example.com/custom.css # remote css
   customJS:
-    - js/copy-code-button.js
+    - "js/copy-code-button.js"
     ## e.g.
     # - js/custom.js # local js in `static/js/custom.js`
     # - https://example.com/custom.js # remote js

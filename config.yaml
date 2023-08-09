@@ -22,8 +22,22 @@ disqusShortname: your-disqus-shortname
 # More info: https://gohugo.io/getting-started/configuration-markup#
 markup:
   highlight:
-    guessSyntax: true
-    style: emacs
+    anchorLineNos: falseß
+    codeFences: true
+    guessSyntax: false
+    hl_Lines: ''
+    lineAnchors: ''
+    lineNoStart: 1
+    lineNos: false
+    lineNumbersInTable: true
+    noClasses: false
+    noHl: false
+    style: 'monokailight'
+    tabWidth: 4
+    # guessSyntax: true
+    # # style: rose-pine-dawn
+    # style: emacs
+
   tableOfContents:
     endLevel: 3
     ordered: false
@@ -85,9 +99,12 @@ params:
   # You can put your custom css and js to `static` directory, or use remote css and js files which start with `http://` or `https://`
   customCSS:
     ## e.g.
-    # - css/custom.css # local css in `static/css/custom.css`
+    - css/syntax.css
+    - css/copy-code-button.css
+    # local css in `static/css/custom.css`
     # - https://example.com/custom.css # remote css
   customJS:
+    - js/copy-code-button.js
     ## e.g.
     # - js/custom.js # local js in `static/js/custom.js`
     # - https://example.com/custom.js # remote js
@@ -96,3 +113,7 @@ params:
 taxonomies:
   categories: categories
   # tags: tags
+
+
+pygmentsUseClasses: true
+pygmentsCodeFences: true

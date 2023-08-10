@@ -108,10 +108,13 @@ Params:
     - "css/syntax.css"
     - css/copy-code-button.css
     - css/copy-code-button copy.css
+    - css/back-to-top.css
+
     # local css in `static/css/custom.css`
     # - https://example.com/custom.css # remote css
   customJS:
     - js/copy-code-button.js
+    - js/back-to-top.js
     - js/add-on.js
     ## e.g.
     # - js/custom.js # local js in `static/js/custom.js`
@@ -125,5 +128,8 @@ taxonomies:
 
 pygmentsUseClasses: true
 pygmentsCodeFences: true
+
+
+enableGitInfo: true
 
 

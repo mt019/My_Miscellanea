@@ -104,10 +104,9 @@ Params:
   # You can put your custom css and js to `static` directory, or use remote css and js files which start with `http://` or `https://`
   customCSS:
     ## e.g.
-    - css/add-on.css
-    - "css/syntax.css"
+    # - css/add-on.css
+    - css/syntax.css
     - css/copy-code-button.css
-    # - css/copy-code-button copy.css
     - css/back-to-top.css
 
     # local css in `static/css/custom.css`

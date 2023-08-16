@@ -82,7 +82,6 @@
     opacity: .01;
   }
   
-
   
   .chroma [data-lang]:before {
     position: absolute;
@@ -107,18 +106,6 @@
     margin: 0 0 0 1px;
   }
 
-
-  /* LineHighlight  */
-  .chroma .hl{
-
-    width: 200%;
-    height: 22px;
-    top: 0;
-    right: 0;
-    /* background:red; */
-    z-index:-1;
-    /* white-space: nowrap; */
-  }
 
 
 

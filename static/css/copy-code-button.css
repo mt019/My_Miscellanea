@@ -109,5 +109,10 @@
 
 
 
+/* LineHighlight */ 
+.chroma .hl {
+  width: 200%;
+  background-color: #ffffcc 
+}
 
 

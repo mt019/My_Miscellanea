@@ -38,7 +38,7 @@ function copyCodeBlockExecCommand(codeToCopy, highlightDiv) {
   const sel = window.getSelection();
   sel.removeAllRanges();
   sel.addRange(range);
-  textArea.setSelectionRange(0, 999999);
+  textArea.setSelectionRange(0, textArea.value.length);
   document.execCommand("copy");
   highlightDiv.removeChild(textArea);
 }

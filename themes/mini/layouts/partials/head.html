@@ -12,6 +12,8 @@
 
 <link rel="stylesheet" href="{{ "/css/style.css" | relURL }}">
 
+
+
 {{ range .Site.Params.customCSS }}
   {{ if ( or ( hasPrefix . "http://" ) ( hasPrefix . "https://" ) ) }}
     <!-- remote css -->

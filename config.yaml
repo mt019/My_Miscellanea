@@ -1,19 +1,24 @@
 baseURL: https://mt019.github.io
 languageCode: en-us
-title: Hugo
+title: Ivanna's Site
 theme: mini
 
+
 # Default content language, support en (English) / zh (Chinese) / nl (Dutch) / fr (French) / es (Spanish) / da (Danish), default 'en'
-defaultContentLanguage: zh
+defaultContentLanguage: en
+
+
 
 # !!! exampleSite only, you may need to delete the line: `themesDir: ../../` 
 # themesDir: ../../
 
+
+# https://mogeko.me/posts/zh-cn/033/
 hasCJKLanguage: true
 permalinks:
   posts: /posts/:title/
 
-paginate: 3
+paginate: 5
 
 googleAnalytics: your-google-analytics-id
 disqusShortname: your-disqus-shortname
@@ -22,8 +27,22 @@ disqusShortname: your-disqus-shortname
 # More info: https://gohugo.io/getting-started/configuration-markup#
 markup:
   highlight:
-    guessSyntax: true
-    style: emacs
+    anchorLineNos: false
+    codeFences: true
+    guessSyntax: false
+    # hl_Lines: ''
+    lineAnchors: ''
+    lineNoStart: 1
+    lineNos: true
+    lineNumbersInTable: false
+    noClasses: false
+    noHl: false
+    # style: 'monokailight'
+    tabWidth: 4
+    # guessSyntax: true
+    style: rose-pine-dawn
+    # style: emacs
+
   tableOfContents:
     endLevel: 3
     ordered: false
@@ -43,11 +62,11 @@ social:
 
 
 # Site parameters
-params:
+Params:
   # Site Author
-  author: Author
+  author: Ivanna
   # Author biography
-  bio: Software Engineer
+  bio: Student
   # Site Description, used in HTML meat
   description: My Blog
 
@@ -57,34 +76,59 @@ params:
   ###########################################
 
   # To enable RSS, you could set `enableRSS: true`, default is `true`
-  enableRSS: true
+  enableRSS: false
   # To enable comments, you may need to set `disqusShortname`
-  enableComments: true
+  enableComments: false
   # To enable comments, you may need to set `googleAnalytics`
   enableGoogleAnalytics: true
   # To enable table of content, you could set `showToc: true`, default is `false`
   showToc: true
   # To hidden powerBy message in the page footer, you could set: `showPowerBy: false`, default is `true`
-  showPowerBy: true
+  showPowerBy: false
   # To enable math typesetting , you could set `math: true`, default is `false`
   math: false
   # To hidden post summary in home page, you could set `hiddenPostSummaryInHomePage: true`, default is `false`
   hiddenPostSummaryInHomePage: false
   # Website copy write, default: '© Copyright 2021 ❤️ {params.author}'
-  copyright: '' 
+  copyright: 
 
-  # Extra links in navigation
+# Extra links in navigation
   links:
-    ## e.g.
+    #  Name1: 
+    #     name: Categories
+    #     path: /categories
+    # e.g.
     # - name: Project
     #   path: /project
 
   # You can put your custom css and js to `static` directory, or use remote css and js files which start with `http://` or `https://`
   customCSS:
     ## e.g.
-    # - css/custom.css # local css in `static/css/custom.css`
+    # - css/add-on.css
+    - css/syntax.css
+    - css/copy-code-button.css
+    - css/back-to-top.css
+
+    # local css in `static/css/custom.css`
     # - https://example.com/custom.css # remote css
   customJS:
+    - js/copy-code-button.js
+    - js/back-to-top.js
+    - js/add-on.js
     ## e.g.
     # - js/custom.js # local js in `static/js/custom.js`
     # - https://example.com/custom.js # remote js
+
+
+taxonomies:
+  categories: categories
+  tags: tags
+
+
+pygmentsUseClasses: true
+pygmentsCodeFences: true
+
+
+enableGitInfo: true
+
+

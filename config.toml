@@ -1,6 +1,0 @@
-baseURL = 'https://mt019.github.io'
-languageCode = 'en-us'
-title = 'My New Hugo Site'
-theme = "mini" 
-hasCJKLanguage = true
-# https://mogeko.me/posts/zh-cn/033/

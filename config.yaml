@@ -30,11 +30,11 @@ markup:
     anchorLineNos: false
     codeFences: true
     guessSyntax: false
-    hl_Lines: ''
+    # hl_Lines: ''
     lineAnchors: ''
     lineNoStart: 1
-    lineNos: false
-    lineNumbersInTable: true
+    lineNos: true
+    lineNumbersInTable: false
     noClasses: false
     noHl: false
     # style: 'monokailight'
@@ -107,7 +107,7 @@ Params:
     - css/add-on.css
     - "css/syntax.css"
     - css/copy-code-button.css
-    - css/copy-code-button copy.css
+    # - css/copy-code-button copy.css
     - css/back-to-top.css
 
     # local css in `static/css/custom.css`

@@ -49,7 +49,7 @@ showToc: true
 
 我在想你的時候睡著了
 
-live 
+live （感動
 
 {{< youtube l4cUp4EU_e8 >}}
 

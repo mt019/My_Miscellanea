@@ -39,7 +39,7 @@
     border-top-right-radius: 0px;
     border-bottom-left-radius: 4px;
     border-bottom-right-radius: 4px;
-    padding: 30px 10px 10px 10px;
+    padding: 50px 10px 10px 10px;
     /* margin: 40 0 0 0px; */
   }
   
@@ -107,12 +107,5 @@
   }
 
 
-
-
-/* LineHighlight */ 
-.chroma .hl {
-  width: 200%;
-  background-color: #ffffcc 
-}
 
 

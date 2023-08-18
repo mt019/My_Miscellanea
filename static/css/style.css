@@ -403,7 +403,8 @@ nav.navigation a.button {
 
 
 #archive {
-  max-width: 580px;
+  max-width: 500px;
+  /* max-width: 1000px; */
   margin: 0 auto;
   padding: 0 24px;
 }
@@ -430,7 +431,7 @@ nav.navigation a.button {
   min-width: 60px;
 }
 #archive .group .value .title {
-  display: inline;
+  display: inline-flex;
 }
 #archive .group .value .title a {
   color:#404040;
@@ -439,8 +440,8 @@ nav.navigation a.button {
   color: #0366d6;
 }
 #archive .group .value .tags {
-  display: inline;
-  margin-left: 7px;
+  display: block;
+  margin-left: 60px;
 }
 #archive .group .value .tags a {
   background: #f2f2f2;

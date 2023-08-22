@@ -18,6 +18,7 @@ summary: My exhilarating hobby of aerial dance in Taipei fuels my passion for de
 
 tags:
 - Hobby
+- work out
 
 ---
 

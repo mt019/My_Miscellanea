@@ -545,7 +545,8 @@ iframe {
 .fancy-button {
   display: inline-block;
   width: 100%;
-  padding: 10px 20px;
+  padding: 15px 0px;
+  /* padding: auto; */
   border: none;
   border-radius: 5px;
   background-color: lightpink;
@@ -568,3 +569,4 @@ iframe {
   transform: scale(1.05);
   box-shadow: 0 4px 2px rgba(0, 0, 0, 0.0);
 }
+

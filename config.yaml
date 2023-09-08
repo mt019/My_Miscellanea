@@ -108,6 +108,7 @@ Params:
     - css/syntax.css
     - css/copy-code-button.css
     - css/back-to-top.css
+    - css/emoji.css
 
     # local css in `static/css/custom.css`
     # - https://example.com/custom.css # remote css

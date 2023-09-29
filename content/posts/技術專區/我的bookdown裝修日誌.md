@@ -64,7 +64,7 @@ showToc: true
 }
 ```
 
-```html: custom_def.html
+```html:custom_def.html
 <script>
   var coll = document.getElementsByClassName("collapsible");
   var i;

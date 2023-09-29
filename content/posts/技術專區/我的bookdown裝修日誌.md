@@ -6,6 +6,8 @@ lastmod:
 
 tags: 
     - Site
+    - CSS
+    - HTML
 categories:
 description:
 slug:
@@ -92,5 +94,5 @@ showToc: true
     }
   }
   
-    </script>
+</script>
 ```

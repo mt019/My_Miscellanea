@@ -52,4 +52,4 @@ tags:
 
 登登～
 
-![Image alt](chicken_wings.jpg)
+![chicken_wings](chicken_wings.jpg)

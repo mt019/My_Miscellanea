@@ -1,5 +1,5 @@
 ---
-title: "我的bookdown裝修日誌.md"
+title: "我的bookdown裝修日誌"
 date: 2023-09-25T12:00:00+08:00
 lastmod:
 
@@ -23,14 +23,14 @@ showToc: true
 
 
 
-
-
 ## 引用資料的展開收起
 
-[實現效果](https://mt019.github.io/1121_Fiscal_Law_Seminar/%E6%9F%AF%E6%A0%BC%E9%90%98-%E5%9C%B0%E6%96%B9%E8%B2%A1%E6%94%BF.html)：
+### [實現效果](https://mt019.github.io/1121_Fiscal_Law_Seminar/%E6%9F%AF%E6%A0%BC%E9%90%98-%E5%9C%B0%E6%96%B9%E8%B2%A1%E6%94%BF.html)：
 
 1. 點擊按鈕展開資料文本
 2. 雙擊資料本文處，即可收起，並捲動回到按鈕位置
+
+### 方法：
 
 為bookdown 加入css 與 js
 

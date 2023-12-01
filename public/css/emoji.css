@@ -1,0 +1,9 @@
+#自定义CSS
+
+i.qqangry   {background:url(https://lxzh.oss-cn-hangzhou.aliyuncs.com/qqimg/angry.gif)       no-repeat center center;background-size:90%;}
+i.qqawkward {background:url(https://lxzh.oss-cn-hangzhou.aliyuncs.com/qqimg/awkward.gif)     no-repeat center center;background-size:90%;}
+i.qqcry     {background:url(https://lxzh.oss-cn-hangzhou.aliyuncs.com/qqimg/cry.gif)         no-repeat center center;background-size:90%;}
+i.qqcurse   {background:url(https://lxzh.oss-cn-hangzhou.aliyuncs.com/qqimg/curse.gif)       no-repeat center center;background-size:90%;}
+
+
+i.2x  {background:url(static/新版QQ默认表情包/2@2x.gif)       no-repeat center center;background-size:90%;}

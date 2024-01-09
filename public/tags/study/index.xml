@@ -2,45 +2,45 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Study on Ivanna&#39;s Site</title>
-    <link>My_Miscellanea/tags/study/</link>
+    <link>https://mt019.github.io/My_Miscellanea/tags/study/</link>
     <description>Recent content in Study on Ivanna&#39;s Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 24 Aug 2023 10:00:00 +0800</lastBuildDate><atom:link href="My_Miscellanea/tags/study/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 24 Aug 2023 10:00:00 +0800</lastBuildDate><atom:link href="https://mt019.github.io/My_Miscellanea/tags/study/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>ntu 選課</title>
-      <link>My_Miscellanea/posts/ntu-%E9%81%B8%E8%AA%B2/</link>
+      <link>https://mt019.github.io/My_Miscellanea/posts/ntu-%E9%81%B8%E8%AA%B2/</link>
       <pubDate>Fri, 18 Aug 2023 11:00:00 +0800</pubDate>
       
-      <guid>My_Miscellanea/posts/ntu-%E9%81%B8%E8%AA%B2/</guid>
+      <guid>https://mt019.github.io/My_Miscellanea/posts/ntu-%E9%81%B8%E8%AA%B2/</guid>
       <description>選課清單 110-1 🔗 企業併購之法律、策略與財務專題研究一 金融科技法制與政策專題研究一 稅捐法與社會法專題研究一 商管機器學習 110-2 🔗 存活分析 統計計算 國際稅法</description>
     </item>
     
     <item>
       <title>數學分析</title>
-      <link>My_Miscellanea/posts/%E6%95%B8%E5%AD%B8%E5%88%86%E6%9E%90/</link>
+      <link>https://mt019.github.io/My_Miscellanea/posts/%E6%95%B8%E5%AD%B8%E5%88%86%E6%9E%90/</link>
       <pubDate>Thu, 24 Aug 2023 10:00:00 +0800</pubDate>
       
-      <guid>My_Miscellanea/posts/%E6%95%B8%E5%AD%B8%E5%88%86%E6%9E%90/</guid>
+      <guid>https://mt019.github.io/My_Miscellanea/posts/%E6%95%B8%E5%AD%B8%E5%88%86%E6%9E%90/</guid>
       <description>分析導論 (Introduction to Analysis)： 這是一門介紹數學分析基本概念和技巧的課程，通常作為大學數學系中的入門課程。它主要涵蓋數列、極限、連續性、微積</description>
     </item>
     
     <item>
       <title>Survival Analysis</title>
-      <link>My_Miscellanea/posts/survival-analysis/</link>
+      <link>https://mt019.github.io/My_Miscellanea/posts/survival-analysis/</link>
       <pubDate>Wed, 23 Aug 2023 10:00:00 +0800</pubDate>
       
-      <guid>My_Miscellanea/posts/survival-analysis/</guid>
+      <guid>https://mt019.github.io/My_Miscellanea/posts/survival-analysis/</guid>
       <description>Survival analysis 🔗Survival analysis is a captivating and practical field that has always captivated my interest. This specialized area of statistics deals with analyzing the time until an event of interest occurs. Whether applied in medical research, engineering, economics, or social sciences, survival analysis allows us to delve into the dynamics of events that are not instantaneous and are influenced by a multitude of factors.
 One of the most intriguing aspects of survival analysis is its ability to handle censored data.</description>
     </item>
     
     <item>
       <title>柯老師，地方稅法</title>
-      <link>My_Miscellanea/posts/%E6%9F%AF%E8%80%81%E5%B8%AB%E5%9C%B0%E6%96%B9%E7%A8%85%E6%B3%95/</link>
+      <link>https://mt019.github.io/My_Miscellanea/posts/%E6%9F%AF%E8%80%81%E5%B8%AB%E5%9C%B0%E6%96%B9%E7%A8%85%E6%B3%95/</link>
       <pubDate>Tue, 22 Aug 2023 13:00:00 +0800</pubDate>
       
-      <guid>My_Miscellanea/posts/%E6%9F%AF%E8%80%81%E5%B8%AB%E5%9C%B0%E6%96%B9%E7%A8%85%E6%B3%95/</guid>
+      <guid>https://mt019.github.io/My_Miscellanea/posts/%E6%9F%AF%E8%80%81%E5%B8%AB%E5%9C%B0%E6%96%B9%E7%A8%85%E6%B3%95/</guid>
       <description>從地方自治談民主基因 🔗 談特別公課 🔗</description>
     </item>
     

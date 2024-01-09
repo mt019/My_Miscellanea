@@ -1,6 +1,6 @@
 baseURL: /
 # uglyURLs : true
-relativeURLs : true 
+relativeURLs : false 
 # !!!!!!!this is important
 
 

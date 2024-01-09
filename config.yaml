@@ -110,6 +110,7 @@ Params:
   customCSS:
     ## e.g.
     # - css/add-on.css
+    - css/style.css
     - css/syntax.css
     - css/copy-code-button.css
     - css/back-to-top.css

@@ -2,44 +2,44 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Ivanna&#39;s Site</title>
-    <link>https://mt019.github.io/My_Miscellanea/categories/</link>
+    <link>/categories/</link>
     <description>Recent content in Categories on Ivanna&#39;s Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 01 Dec 2023 10:00:00 +0800</lastBuildDate><atom:link href="https://mt019.github.io/My_Miscellanea/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 01 Dec 2023 10:00:00 +0800</lastBuildDate><atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Daily</title>
-      <link>https://mt019.github.io/My_Miscellanea/categories/daily/</link>
+      <link>/categories/daily/</link>
       <pubDate>Fri, 01 Dec 2023 10:00:00 +0800</pubDate>
       
-      <guid>https://mt019.github.io/My_Miscellanea/categories/daily/</guid>
+      <guid>/categories/daily/</guid>
       <description></description>
     </item>
     
     <item>
       <title>School</title>
-      <link>https://mt019.github.io/My_Miscellanea/categories/school/</link>
+      <link>/categories/school/</link>
       <pubDate>Tue, 22 Aug 2023 13:00:00 +0800</pubDate>
       
-      <guid>https://mt019.github.io/My_Miscellanea/categories/school/</guid>
+      <guid>/categories/school/</guid>
       <description></description>
     </item>
     
     <item>
       <title>syntax</title>
-      <link>https://mt019.github.io/My_Miscellanea/categories/syntax/</link>
+      <link>/categories/syntax/</link>
       <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://mt019.github.io/My_Miscellanea/categories/syntax/</guid>
+      <guid>/categories/syntax/</guid>
       <description></description>
     </item>
     
     <item>
       <title>themes</title>
-      <link>https://mt019.github.io/My_Miscellanea/categories/themes/</link>
+      <link>/categories/themes/</link>
       <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://mt019.github.io/My_Miscellanea/categories/themes/</guid>
+      <guid>/categories/themes/</guid>
       <description></description>
     </item>
     

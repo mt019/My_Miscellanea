@@ -1,6 +1,9 @@
-baseURL: My_Miscellanea/
+baseURL: /
 # uglyURLs : true
 relativeURLs : true 
+# !!!!!!!this is important
+
+
 languageCode: en-us
 title: Ivanna's Site
 theme: mini

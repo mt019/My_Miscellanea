@@ -2,44 +2,44 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Ivanna&#39;s Site</title>
-    <link>/categories/</link>
+    <link>My_Miscellanea/categories/</link>
     <description>Recent content in Categories on Ivanna&#39;s Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 01 Dec 2023 10:00:00 +0800</lastBuildDate><atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 01 Dec 2023 10:00:00 +0800</lastBuildDate><atom:link href="My_Miscellanea/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Daily</title>
-      <link>/categories/daily/</link>
+      <link>My_Miscellanea/categories/daily/</link>
       <pubDate>Fri, 01 Dec 2023 10:00:00 +0800</pubDate>
       
-      <guid>/categories/daily/</guid>
+      <guid>My_Miscellanea/categories/daily/</guid>
       <description></description>
     </item>
     
     <item>
       <title>School</title>
-      <link>/categories/school/</link>
+      <link>My_Miscellanea/categories/school/</link>
       <pubDate>Tue, 22 Aug 2023 13:00:00 +0800</pubDate>
       
-      <guid>/categories/school/</guid>
+      <guid>My_Miscellanea/categories/school/</guid>
       <description></description>
     </item>
     
     <item>
       <title>syntax</title>
-      <link>/categories/syntax/</link>
+      <link>My_Miscellanea/categories/syntax/</link>
       <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>/categories/syntax/</guid>
+      <guid>My_Miscellanea/categories/syntax/</guid>
       <description></description>
     </item>
     
     <item>
       <title>themes</title>
-      <link>/categories/themes/</link>
+      <link>My_Miscellanea/categories/themes/</link>
       <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>/categories/themes/</guid>
+      <guid>My_Miscellanea/categories/themes/</guid>
       <description></description>
     </item>
     
